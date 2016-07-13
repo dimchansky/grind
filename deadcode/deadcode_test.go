@@ -7,8 +7,8 @@ package deadcode
 import (
 	"testing"
 
-	"rsc.io/grind/grinder"
-	"rsc.io/grind/grindtest"
+	"github.com/dimchansky/grind/grinder"
+	"github.com/dimchansky/grind/grindtest"
 )
 
 func TestDeadcode(t *testing.T) {

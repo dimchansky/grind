@@ -14,10 +14,10 @@ import (
 	"strings"
 
 	_ "golang.org/x/tools/go/gcimporter15"
-	"rsc.io/grind/deadcode"
-	"rsc.io/grind/gotoinline"
-	"rsc.io/grind/grinder"
-	"rsc.io/grind/vardecl"
+	"github.com/dimchansky/grind/deadcode"
+	"github.com/dimchansky/grind/gotoinline"
+	"github.com/dimchansky/grind/grinder"
+	"github.com/dimchansky/grind/vardecl"
 )
 
 var diff = flag.Bool("diff", false, "print diffs")

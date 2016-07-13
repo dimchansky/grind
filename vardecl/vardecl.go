@@ -13,9 +13,9 @@ import (
 
 	"go/types"
 
-	"rsc.io/grind/block"
-	"rsc.io/grind/flow"
-	"rsc.io/grind/grinder"
+	"github.com/dimchansky/grind/block"
+	"github.com/dimchansky/grind/flow"
+	"github.com/dimchansky/grind/grinder"
 )
 
 func Grind(ctxt *grinder.Context, pkg *grinder.Package) {

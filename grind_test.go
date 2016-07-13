@@ -7,8 +7,8 @@ package main
 import (
 	"testing"
 
-	"rsc.io/grind/grinder"
-	"rsc.io/grind/grindtest"
+	"github.com/dimchansky/grind/grinder"
+	"github.com/dimchansky/grind/grindtest"
 )
 
 var builtins = []grinder.Func{

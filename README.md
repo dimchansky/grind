@@ -1,3 +1,3 @@
-go get [-u] rsc.io/grind
+go get [-u] github.com/dimchansky/grind
 
-http://godoc.org/rsc.io/grind
+http://godoc.org/github.com/dimchansky/grind

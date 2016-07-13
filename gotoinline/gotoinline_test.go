@@ -7,8 +7,8 @@ package gotoinline
 import (
 	"testing"
 
-	"rsc.io/grind/grinder"
-	"rsc.io/grind/grindtest"
+	"github.com/dimchansky/grind/grinder"
+	"github.com/dimchansky/grind/grindtest"
 )
 
 func TestGrind(t *testing.T) {

@@ -7,8 +7,8 @@ package main
 import (
 	"go/ast"
 
-	"rsc.io/grind/block"
-	"rsc.io/grind/grinder"
+	"github.com/dimchansky/grind/block"
+	"github.com/dimchansky/grind/grinder"
 )
 
 func DeleteUnusedLabels(ctxt *grinder.Context, pkg *grinder.Package) {
