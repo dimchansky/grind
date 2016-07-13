@@ -1,4 +1,4 @@
-# grind [![GoDoc](http://godoc.org/github.com/dimchansky/grind?status.png)](http://godoc.org/github.com/dimchansky/grind)
+# grind [![Build Status](https://travis-ci.org/dimchansky/grind.svg?branch=master)](https://travis-ci.org/dimchansky/grind) [![GoDoc](http://godoc.org/github.com/dimchansky/grind?status.png)](http://godoc.org/github.com/dimchansky/grind)
 
 Grind polishes Go programs.
 
